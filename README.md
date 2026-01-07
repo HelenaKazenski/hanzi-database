@@ -42,7 +42,7 @@ applications in language education, corpus linguistics, and natural language pro
 
 <img width="1494" height="766" alt="HanziDB ERD Final" src="https://github.com/user-attachments/assets/96fe1b9c-8ad5-4d80-aefb-d0e20da525da" />
 
-# **Data Inserts & Queries**
+# **Sample Data Inserts & Queries**
 
 <img width="828" height="465" alt="Screenshot 2026-01-07 at 4 39 19 PM" src="https://github.com/user-attachments/assets/add3a4b2-dcfa-4cca-bf6f-2554537bf2e8" />
 
