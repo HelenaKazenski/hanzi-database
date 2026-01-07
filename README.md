@@ -92,13 +92,27 @@ manipulation. These queries were designed to balance performance with interpreta
 
 # **Potential Applications**
 
-- Language learning and educational tools
-- Corpus linguistics research
-- Semantic analysis and morphology studies
-- Foundations for NLP tasks such as:
+The Hanzi Database is designed as more than a traditional dictionary. Its structured, relational approach enables a wide range 
+of educational, linguistic, and computational applications.
+
+- **Language learning and educational tools:**
+  - Group vocabulary by semantic field for targeted learning.
+  - Use usage frequency and example sentences to prioritize lesson content.
+  - Support adaptive learning applications tailored to user goals.
+- **Corpus linguistics and morphological research:**
+  - Analyze character composition, radical usage, and word formation patterns.
+  - Explore semantic groupings across vocabulary.
+- **Semantic lexical analysis:**
+  - Study word relationships and meaning-based networks.
+  - Support structured analysis of lexical organization.
+- **Foundations for NLP applications:**
   - Machine translation
-  - Lexical analysis
-  - Speech recognition support systems
+  - Lexical analysis and tokenization
+  - Speech recognition support
+  - Language modeling and semantic clustering
+- **Scalable and customizable linguistic resource:**
+  - Extend beyond standard dictionary use cases.
+  - Grow with additional annotations, metadata, or corpus data.
 
 # **Conclusion**
 
