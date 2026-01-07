@@ -1,3 +1,5 @@
+<img width="500" height="325" alt="Screenshot 2026-01-07 at 4 51 02 PM" src="https://github.com/user-attachments/assets/a3690b97-e675-493c-96bc-3f07b765eb76" />
+
 # **Hanzi Database**
 
 This Hanzi Database is a relational SQL database designed to model the structure of the Chinese language from the ground up. It 
@@ -35,6 +37,22 @@ applications in language education, corpus linguistics, and natural language pro
 - Aggregate functions (ex: COUNT, AVG) support analysis such as stroke count averages and radical frequency.
 - String functions (ex: GROUP_CONCAT) enable compact representation of character and radical groupings.
 - Queries reveal linguistic patterns, shared components, and semantic relationships within the data.
+
+# **ERD**
+
+<img width="1494" height="766" alt="HanziDB ERD Final" src="https://github.com/user-attachments/assets/96fe1b9c-8ad5-4d80-aefb-d0e20da525da" />
+
+# **Data Inserts & Queries**
+
+<img width="828" height="465" alt="Screenshot 2026-01-07 at 4 39 19 PM" src="https://github.com/user-attachments/assets/add3a4b2-dcfa-4cca-bf6f-2554537bf2e8" />
+
+<img width="828" height="464" alt="Screenshot 2026-01-07 at 4 37 35 PM" src="https://github.com/user-attachments/assets/ee0d170e-dc68-4bd1-8b1b-f8d7cbee41c0" />
+
+<img width="829" height="465" alt="Screenshot 2026-01-07 at 4 38 09 PM" src="https://github.com/user-attachments/assets/f03f93cf-51d6-4bd3-9789-88d5e3828b1d" />
+
+<img width="829" height="465" alt="Screenshot 2026-01-07 at 4 38 18 PM" src="https://github.com/user-attachments/assets/74441a6e-49f7-4c7c-83a2-4f767bfa28ef" />
+
+<img width="829" height="465" alt="Screenshot 2026-01-07 at 4 38 27 PM" src="https://github.com/user-attachments/assets/94d40cb4-dae1-41d4-b24b-49dca91d27ec" />
 
 # **Technologies Used**
 
